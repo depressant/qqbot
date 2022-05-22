@@ -1,0 +1,276 @@
+2022-05-21 15:48:08,991 [INFO] start (ws_session_manager.py:50): [连接管理]程序启动中...
+2022-05-21 15:48:14,165 [INFO] new_connect (ws_session_manager.py:95): [连接管理]会话启动中...
+2022-05-21 15:48:14,883 [INFO] identify (ws_client.py:111): [ws连接]鉴权中...
+2022-05-21 15:48:15,026 [INFO] on_message (ws_client.py:73): [ws连接]鉴权成功
+2022-05-21 15:48:15,027 [INFO] on_message (ws_client.py:78): [ws连接]程序启动成功！
+2022-05-21 15:48:40,116 [INFO] _message_handler (test.py:11): event <qqbot.model.ws_context.WsContext object at 0x0000025CDD196308>,receive message <@!10090751502455108828> 你好
+2022-05-21 15:49:02,137 [INFO] _message_handler (test.py:11): event <qqbot.model.ws_context.WsContext object at 0x0000025CDD1D5E08>,receive message 
+你是谁<@!10090751502455108828> 
+2022-05-21 15:51:07,468 [INFO] _message_handler (test.py:11): event <qqbot.model.ws_context.WsContext object at 0x0000025CDD1D5F08>,receive message <@!10090751502455108828> qwe
+2022-05-21 18:12:15,121 [INFO] start (ws_session_manager.py:50): [连接管理]程序启动中...
+2022-05-21 18:12:20,145 [INFO] new_connect (ws_session_manager.py:95): [连接管理]会话启动中...
+2022-05-21 18:12:21,172 [INFO] identify (ws_client.py:111): [ws连接]鉴权中...
+2022-05-21 18:12:21,358 [INFO] on_message (ws_client.py:73): [ws连接]鉴权成功
+2022-05-21 18:12:21,358 [INFO] on_message (ws_client.py:78): [ws连接]程序启动成功！
+2022-05-21 18:12:32,439 [INFO] jielong (test.py:17): event <qqbot.model.ws_context.WsContext object at 0x000001D034CC7548>,receive message <@!10090751502455108828> 你好
+2022-05-21 18:12:46,455 [INFO] jielong (test.py:17): event <qqbot.model.ws_context.WsContext object at 0x000001D034CCA288>,receive message <@!10090751502455108828> 成语接龙
+2022-05-21 18:13:13,684 [INFO] jielong (test.py:17): event <qqbot.model.ws_context.WsContext object at 0x000001D034CC7348>,receive message <@!10090751502455108828> 成语接龙
+2022-05-21 18:14:12,669 [INFO] start (ws_session_manager.py:50): [连接管理]程序启动中...
+2022-05-21 18:14:17,684 [INFO] new_connect (ws_session_manager.py:95): [连接管理]会话启动中...
+2022-05-21 18:14:18,404 [INFO] identify (ws_client.py:111): [ws连接]鉴权中...
+2022-05-21 18:14:18,607 [INFO] on_message (ws_client.py:73): [ws连接]鉴权成功
+2022-05-21 18:14:18,607 [INFO] on_message (ws_client.py:78): [ws连接]程序启动成功！
+2022-05-21 18:14:29,667 [INFO] jielong (test.py:17): event <qqbot.model.ws_context.WsContext object at 0x000001CCE0578D48>,receive message <@!10090751502455108828> 你好
+2022-05-21 18:14:39,762 [INFO] jielong (test.py:17): event <qqbot.model.ws_context.WsContext object at 0x000001CCE0578C88>,receive message <@!10090751502455108828>成语接龙
+2022-05-21 18:14:53,833 [INFO] jielong (test.py:17): event <qqbot.model.ws_context.WsContext object at 0x000001CCE0578A88>,receive message <@!10090751502455108828>成语接龙
+2022-05-21 18:44:18,953 [INFO] on_close (ws_client.py:51): [ws连接]关闭, 返回码: 4009, 返回信息:Session timed out
+2022-05-21 18:44:25,393 [INFO] new_connect (ws_session_manager.py:95): [连接管理]会话启动中...
+2022-05-21 18:47:13,089 [INFO] start (ws_session_manager.py:50): [连接管理]程序启动中...
+2022-05-21 18:47:18,118 [INFO] new_connect (ws_session_manager.py:95): [连接管理]会话启动中...
+2022-05-21 18:47:18,631 [INFO] identify (ws_client.py:111): [ws连接]鉴权中...
+2022-05-21 18:47:18,815 [INFO] on_message (ws_client.py:73): [ws连接]鉴权成功
+2022-05-21 18:47:18,815 [INFO] on_message (ws_client.py:78): [ws连接]程序启动成功！
+2022-05-21 18:47:26,904 [INFO] jielong (test.py:17): event <qqbot.model.ws_context.WsContext object at 0x0000015CFF546E48>,receive message <@!10090751502455108828> 你好
+2022-05-21 18:47:42,164 [INFO] jielong (test.py:17): event <qqbot.model.ws_context.WsContext object at 0x0000015CFF53C408>,receive message <@!10090751502455108828> 成语接龙
+2022-05-21 18:48:12,062 [INFO] jielong (test.py:17): event <qqbot.model.ws_context.WsContext object at 0x0000015CFD3AA308>,receive message <@!10090751502455108828> 你好
+2022-05-21 18:48:24,146 [INFO] jielong (test.py:17): event <qqbot.model.ws_context.WsContext object at 0x0000015CFCA97BC8>,receive message <@!10090751502455108828> 一心一意
+2022-05-21 18:49:21,500 [INFO] jielong (test.py:17): event <qqbot.model.ws_context.WsContext object at 0x0000015CFCA97BC8>,receive message <@!10090751502455108828>月明星稀
+2022-05-21 18:49:30,506 [INFO] jielong (test.py:17): event <qqbot.model.ws_context.WsContext object at 0x0000015CFF53C5C8>,receive message <@!10090751502455108828> 月明星稀
+2022-05-21 18:49:39,614 [INFO] jielong (test.py:17): event <qqbot.model.ws_context.WsContext object at 0x0000015CFF546088>,receive message <@!10090751502455108828> 分数
+2022-05-21 18:50:23,854 [INFO] jielong (test.py:17): event <qqbot.model.ws_context.WsContext object at 0x0000015CFF548048>,receive message <@!10090751502455108828> 不玩了
+2022-05-21 18:55:14,260 [INFO] jielong (test.py:17): event <qqbot.model.ws_context.WsContext object at 0x0000015CFF546088>,receive message <@!10090751502455108828> 你好
+2022-05-21 18:55:38,527 [INFO] jielong (test.py:17): event <qqbot.model.ws_context.WsContext object at 0x0000015CFF548048>,receive message <@!10090751502455108828>成语接龙
+2022-05-21 18:55:49,485 [INFO] jielong (test.py:17): event <qqbot.model.ws_context.WsContext object at 0x0000015CFF546088>,receive message <@!10090751502455108828> 成语接龙
+2022-05-21 18:56:00,541 [INFO] jielong (test.py:17): event <qqbot.model.ws_context.WsContext object at 0x0000015CFF548048>,receive message <@!10090751502455108828> 不玩了
+2022-05-21 19:17:17,490 [INFO] on_close (ws_client.py:51): [ws连接]关闭, 返回码: 4009, 返回信息:Session timed out
+2022-05-21 19:17:22,802 [INFO] new_connect (ws_session_manager.py:95): [连接管理]会话启动中...
+2022-05-21 19:40:05,282 [INFO] start (ws_session_manager.py:50): [连接管理]程序启动中...
+2022-05-21 19:40:10,325 [INFO] new_connect (ws_session_manager.py:95): [连接管理]会话启动中...
+2022-05-21 19:40:10,814 [INFO] identify (ws_client.py:111): [ws连接]鉴权中...
+2022-05-21 19:40:10,924 [INFO] on_message (ws_client.py:73): [ws连接]鉴权成功
+2022-05-21 19:40:10,925 [INFO] on_message (ws_client.py:78): [ws连接]程序启动成功！
+2022-05-21 19:40:17,057 [INFO] jielong (test.py:17): event <qqbot.model.ws_context.WsContext object at 0x0000017196B06188>,receive message <@!10090751502455108828> 你好
+2022-05-21 19:40:30,061 [INFO] jielong (test.py:17): event <qqbot.model.ws_context.WsContext object at 0x0000017196B0D6C8>,receive message <@!10090751502455108828>成语接龙
+2022-05-21 19:40:41,123 [INFO] jielong (test.py:17): event <qqbot.model.ws_context.WsContext object at 0x0000017196B06888>,receive message <@!10090751502455108828> 分数
+2022-05-21 19:52:16,850 [INFO] jielong (test.py:17): event <qqbot.model.ws_context.WsContext object at 0x0000017196B06C88>,receive message <@!10090751502455108828> 不玩了
+2022-05-21 20:10:11,079 [INFO] on_close (ws_client.py:51): [ws连接]关闭, 返回码: 4009, 返回信息:Session timed out
+2022-05-21 20:10:16,894 [INFO] new_connect (ws_session_manager.py:95): [连接管理]会话启动中...
+2022-05-21 23:55:46,789 [INFO] start (ws_session_manager.py:50): [连接管理]程序启动中...
+2022-05-21 23:55:51,848 [INFO] new_connect (ws_session_manager.py:95): [连接管理]会话启动中...
+2022-05-21 23:55:52,446 [INFO] identify (ws_client.py:111): [ws连接]鉴权中...
+2022-05-21 23:55:52,622 [INFO] on_message (ws_client.py:73): [ws连接]鉴权成功
+2022-05-21 23:55:52,622 [INFO] on_message (ws_client.py:78): [ws连接]程序启动成功！
+2022-05-21 23:55:59,658 [INFO] _message_handler (test.py:9): event <qqbot.model.ws_context.WsContext object at 0x0000019AEB1E8508>,receive message <@!10090751502455108828> 你好
+2022-05-21 23:57:37,283 [INFO] start (ws_session_manager.py:50): [连接管理]程序启动中...
+2022-05-21 23:57:42,302 [INFO] new_connect (ws_session_manager.py:95): [连接管理]会话启动中...
+2022-05-21 23:57:42,796 [INFO] identify (ws_client.py:111): [ws连接]鉴权中...
+2022-05-21 23:57:43,008 [INFO] on_message (ws_client.py:73): [ws连接]鉴权成功
+2022-05-21 23:57:43,009 [INFO] on_message (ws_client.py:78): [ws连接]程序启动成功！
+2022-05-21 23:57:50,074 [INFO] _message_handler (test.py:9): event <qqbot.model.ws_context.WsContext object at 0x0000018CE7E99848>,receive message <@!10090751502455108828> 你好
+2022-05-21 23:58:01,135 [INFO] _message_handler (test.py:9): event <qqbot.model.ws_context.WsContext object at 0x0000018CE7E996C8>,receive message <@!10090751502455108828> 打卡
+2022-05-21 23:59:53,881 [INFO] start (ws_session_manager.py:50): [连接管理]程序启动中...
+2022-05-21 23:59:58,904 [INFO] new_connect (ws_session_manager.py:95): [连接管理]会话启动中...
+2022-05-21 23:59:59,404 [INFO] identify (ws_client.py:111): [ws连接]鉴权中...
+2022-05-21 23:59:59,508 [INFO] on_message (ws_client.py:73): [ws连接]鉴权成功
+2022-05-21 23:59:59,509 [INFO] on_message (ws_client.py:78): [ws连接]程序启动成功！
+2022-05-22 00:00:02,578 [INFO] _message_handler (test.py:9): event <qqbot.model.ws_context.WsContext object at 0x000001F978878A48>,receive message <@!10090751502455108828> 你好
+2022-05-22 00:00:40,980 [INFO] start (ws_session_manager.py:50): [连接管理]程序启动中...
+2022-05-22 00:00:45,996 [INFO] new_connect (ws_session_manager.py:95): [连接管理]会话启动中...
+2022-05-22 00:00:46,695 [INFO] identify (ws_client.py:111): [ws连接]鉴权中...
+2022-05-22 00:00:46,863 [INFO] on_message (ws_client.py:73): [ws连接]鉴权成功
+2022-05-22 00:00:46,863 [INFO] on_message (ws_client.py:78): [ws连接]程序启动成功！
+2022-05-22 00:00:49,887 [INFO] _message_handler (test.py:9): event <qqbot.model.ws_context.WsContext object at 0x00000229932C8D48>,receive message <@!10090751502455108828> 你好
+2022-05-22 00:00:59,923 [INFO] _message_handler (test.py:9): event <qqbot.model.ws_context.WsContext object at 0x00000229932CB448>,receive message <@!10090751502455108828> 打卡
+2022-05-22 00:01:08,936 [INFO] _message_handler (test.py:9): event <qqbot.model.ws_context.WsContext object at 0x00000229932C88C8>,receive message <@!10090751502455108828> 打卡
+2022-05-22 00:01:27,979 [INFO] _message_handler (test.py:9): event <qqbot.model.ws_context.WsContext object at 0x00000229932C8588>,receive message <@!10090751502455108828> 成语接龙
+2022-05-22 00:01:27,980 [INFO] jielong (test.py:35): event <qqbot.model.ws_context.WsContext object at 0x00000229932C8588>,receive message <@!10090751502455108828> 成语接龙
+2022-05-22 00:01:27,980 [INFO] jielong (test.py:36): event <qqbot.model.ws_context.WsContext object at 0x00000229932C8588>,receive message 2022-05-22T00:01:27+08:00
+2022-05-22 00:02:17,061 [INFO] _message_handler (test.py:9): event <qqbot.model.ws_context.WsContext object at 0x00000229932C87C8>,receive message <@!10090751502455108828> 一心一意
+2022-05-22 00:02:17,061 [INFO] jielong (test.py:35): event <qqbot.model.ws_context.WsContext object at 0x00000229932C87C8>,receive message <@!10090751502455108828> 一心一意
+2022-05-22 00:02:17,061 [INFO] jielong (test.py:36): event <qqbot.model.ws_context.WsContext object at 0x00000229932C87C8>,receive message 2022-05-22T00:02:16+08:00
+2022-05-22 00:03:05,156 [INFO] _message_handler (test.py:9): event <qqbot.model.ws_context.WsContext object at 0x00000229932C8D48>,receive message <@!10090751502455108828> 直言不讳
+2022-05-22 00:03:05,156 [INFO] jielong (test.py:35): event <qqbot.model.ws_context.WsContext object at 0x00000229932C8D48>,receive message <@!10090751502455108828> 直言不讳
+2022-05-22 00:03:05,156 [INFO] jielong (test.py:36): event <qqbot.model.ws_context.WsContext object at 0x00000229932C8D48>,receive message 2022-05-22T00:03:04+08:00
+2022-05-22 00:03:38,233 [INFO] _message_handler (test.py:9): event <qqbot.model.ws_context.WsContext object at 0x00000229932C8648>,receive message <@!10090751502455108828> 只身孤影
+2022-05-22 00:03:38,233 [INFO] jielong (test.py:35): event <qqbot.model.ws_context.WsContext object at 0x00000229932C8648>,receive message <@!10090751502455108828> 只身孤影
+2022-05-22 00:03:38,234 [INFO] jielong (test.py:36): event <qqbot.model.ws_context.WsContext object at 0x00000229932C8648>,receive message 2022-05-22T00:03:37+08:00
+2022-05-22 00:03:52,262 [INFO] _message_handler (test.py:9): event <qqbot.model.ws_context.WsContext object at 0x00000229932C88C8>,receive message <@!10090751502455108828> 分数
+2022-05-22 00:03:52,262 [INFO] jielong (test.py:35): event <qqbot.model.ws_context.WsContext object at 0x00000229932C88C8>,receive message <@!10090751502455108828> 分数
+2022-05-22 00:03:52,263 [INFO] jielong (test.py:36): event <qqbot.model.ws_context.WsContext object at 0x00000229932C88C8>,receive message 2022-05-22T00:03:51+08:00
+2022-05-22 00:03:59,327 [INFO] _message_handler (test.py:9): event <qqbot.model.ws_context.WsContext object at 0x00000229932C8408>,receive message <@!10090751502455108828> 不玩了
+2022-05-22 00:03:59,328 [INFO] jielong (test.py:35): event <qqbot.model.ws_context.WsContext object at 0x00000229932C8408>,receive message <@!10090751502455108828> 不玩了
+2022-05-22 00:03:59,328 [INFO] jielong (test.py:36): event <qqbot.model.ws_context.WsContext object at 0x00000229932C8408>,receive message 2022-05-22T00:03:58+08:00
+2022-05-22 03:09:51,694 [INFO] on_close (ws_client.py:51): [ws连接]关闭, 返回码: None, 返回信息:None
+2022-05-22 03:09:56,703 [INFO] new_connect (ws_session_manager.py:95): [连接管理]会话启动中...
+2022-05-22 03:10:08,060 [INFO] on_close (ws_client.py:51): [ws连接]关闭, 返回码: None, 返回信息:None
+2022-05-22 03:10:13,076 [INFO] new_connect (ws_session_manager.py:95): [连接管理]会话启动中...
+2022-05-22 03:10:18,930 [INFO] on_close (ws_client.py:51): [ws连接]关闭, 返回码: None, 返回信息:None
+2022-05-22 03:10:23,935 [INFO] new_connect (ws_session_manager.py:95): [连接管理]会话启动中...
+2022-05-22 03:11:12,784 [INFO] identify (ws_client.py:111): [ws连接]鉴权中...
+2022-05-22 03:11:12,889 [INFO] on_message (ws_client.py:73): [ws连接]鉴权成功
+2022-05-22 03:11:12,890 [INFO] on_message (ws_client.py:78): [ws连接]程序启动成功！
+2022-05-22 09:42:29,939 [INFO] on_close (ws_client.py:51): [ws连接]关闭, 返回码: None, 返回信息:None
+2022-05-22 09:42:37,025 [INFO] new_connect (ws_session_manager.py:95): [连接管理]会话启动中...
+2022-05-22 09:42:47,369 [INFO] identify (ws_client.py:111): [ws连接]鉴权中...
+2022-05-22 09:42:47,516 [INFO] on_message (ws_client.py:73): [ws连接]鉴权成功
+2022-05-22 09:42:47,516 [INFO] on_message (ws_client.py:78): [ws连接]程序启动成功！
+2022-05-22 11:46:34,994 [INFO] start (ws_session_manager.py:50): [连接管理]程序启动中...
+2022-05-22 11:46:40,049 [INFO] new_connect (ws_session_manager.py:95): [连接管理]会话启动中...
+2022-05-22 11:46:40,831 [INFO] identify (ws_client.py:111): [ws连接]鉴权中...
+2022-05-22 11:46:40,931 [INFO] on_message (ws_client.py:73): [ws连接]鉴权成功
+2022-05-22 11:46:40,931 [INFO] on_message (ws_client.py:78): [ws连接]程序启动成功！
+2022-05-22 11:46:42,944 [INFO] _message_handler (test.py:9): event <qqbot.model.ws_context.WsContext object at 0x000001D18CF58C48>,receive message <@!10090751502455108828> 你好
+2022-05-22 11:46:51,989 [INFO] _message_handler (test.py:9): event <qqbot.model.ws_context.WsContext object at 0x000001D18CF587C8>,receive message <@!10090751502455108828> 歇后语
+2022-05-22 11:48:48,534 [INFO] start (ws_session_manager.py:50): [连接管理]程序启动中...
+2022-05-22 11:48:53,550 [INFO] new_connect (ws_session_manager.py:95): [连接管理]会话启动中...
+2022-05-22 11:48:54,153 [INFO] identify (ws_client.py:111): [ws连接]鉴权中...
+2022-05-22 11:48:54,359 [INFO] on_message (ws_client.py:73): [ws连接]鉴权成功
+2022-05-22 11:48:54,361 [INFO] on_message (ws_client.py:78): [ws连接]程序启动成功！
+2022-05-22 11:49:14,430 [INFO] _message_handler (test.py:9): event <qqbot.model.ws_context.WsContext object at 0x000001949CA883C8>,receive message <@!10090751502455108828> 歇后语
+2022-05-22 14:40:30,263 [INFO] start (ws_session_manager.py:50): [连接管理]程序启动中...
+2022-05-22 14:40:35,325 [INFO] new_connect (ws_session_manager.py:95): [连接管理]会话启动中...
+2022-05-22 14:40:36,013 [INFO] identify (ws_client.py:111): [ws连接]鉴权中...
+2022-05-22 14:40:36,191 [INFO] on_message (ws_client.py:73): [ws连接]鉴权成功
+2022-05-22 14:40:36,192 [INFO] on_message (ws_client.py:78): [ws连接]程序启动成功！
+2022-05-22 14:40:48,277 [INFO] _message_handler (test.py:9): event <qqbot.model.ws_context.WsContext object at 0x000001DCCC648C48>,receive message <@!10090751502455108828> 你好
+2022-05-22 14:41:03,430 [INFO] _message_handler (test.py:9): event <qqbot.model.ws_context.WsContext object at 0x000001DCCC63FC08>,receive message <@!10090751502455108828> 歇后语
+2022-05-22 14:42:25,861 [INFO] _message_handler (test.py:9): event <qqbot.model.ws_context.WsContext object at 0x000001DCCC63FBC8>,receive message <@!10090751502455108828> 请问
+2022-05-22 14:44:13,903 [INFO] start (ws_session_manager.py:50): [连接管理]程序启动中...
+2022-05-22 14:44:18,934 [INFO] new_connect (ws_session_manager.py:95): [连接管理]会话启动中...
+2022-05-22 14:44:19,426 [INFO] identify (ws_client.py:111): [ws连接]鉴权中...
+2022-05-22 14:44:19,533 [INFO] on_message (ws_client.py:73): [ws连接]鉴权成功
+2022-05-22 14:44:19,533 [INFO] on_message (ws_client.py:78): [ws连接]程序启动成功！
+2022-05-22 14:44:23,622 [INFO] _message_handler (test.py:9): event <qqbot.model.ws_context.WsContext object at 0x0000026257262D48>,receive message <@!10090751502455108828> 你好
+2022-05-22 14:44:33,658 [INFO] _message_handler (test.py:9): event <qqbot.model.ws_context.WsContext object at 0x00000262572624C8>,receive message <@!10090751502455108828> 歇后语
+2022-05-22 14:45:01,714 [INFO] _message_handler (test.py:9): event <qqbot.model.ws_context.WsContext object at 0x0000026257262648>,receive message <@!10090751502455108828> 分数
+2022-05-22 14:46:52,420 [INFO] start (ws_session_manager.py:50): [连接管理]程序启动中...
+2022-05-22 14:46:57,439 [INFO] new_connect (ws_session_manager.py:95): [连接管理]会话启动中...
+2022-05-22 14:46:57,975 [INFO] identify (ws_client.py:111): [ws连接]鉴权中...
+2022-05-22 14:46:58,144 [INFO] on_message (ws_client.py:73): [ws连接]鉴权成功
+2022-05-22 14:46:58,145 [INFO] on_message (ws_client.py:78): [ws连接]程序启动成功！
+2022-05-22 14:47:07,259 [INFO] _message_handler (test.py:9): event <qqbot.model.ws_context.WsContext object at 0x0000020D96ED8148>,receive message <@!10090751502455108828> 歇后语
+2022-05-22 14:47:17,301 [INFO] _message_handler (test.py:9): event <qqbot.model.ws_context.WsContext object at 0x0000020D96EDEF08>,receive message <@!10090751502455108828> 分数
+2022-05-22 14:47:33,370 [INFO] _message_handler (test.py:9): event <qqbot.model.ws_context.WsContext object at 0x0000020D96ECFB48>,receive message <@!10090751502455108828> 答案
+2022-05-22 14:48:18,841 [INFO] start (ws_session_manager.py:50): [连接管理]程序启动中...
+2022-05-22 14:48:23,875 [INFO] new_connect (ws_session_manager.py:95): [连接管理]会话启动中...
+2022-05-22 14:48:24,372 [INFO] identify (ws_client.py:111): [ws连接]鉴权中...
+2022-05-22 14:48:24,488 [INFO] on_message (ws_client.py:73): [ws连接]鉴权成功
+2022-05-22 14:48:24,489 [INFO] on_message (ws_client.py:78): [ws连接]程序启动成功！
+2022-05-22 14:48:26,516 [INFO] _message_handler (test.py:9): event <qqbot.model.ws_context.WsContext object at 0x000001C12FB48A48>,receive message <@!10090751502455108828> 歇后语
+2022-05-22 14:48:38,597 [INFO] _message_handler (test.py:9): event <qqbot.model.ws_context.WsContext object at 0x000001C12FB4AFC8>,receive message <@!10090751502455108828> 啊啊啊
+2022-05-22 14:48:45,639 [INFO] _message_handler (test.py:9): event <qqbot.model.ws_context.WsContext object at 0x000001C12FB4A0C8>,receive message <@!10090751502455108828> 答案
+2022-05-22 14:49:56,832 [INFO] start (ws_session_manager.py:50): [连接管理]程序启动中...
+2022-05-22 14:50:01,841 [INFO] new_connect (ws_session_manager.py:95): [连接管理]会话启动中...
+2022-05-22 14:50:02,362 [INFO] identify (ws_client.py:111): [ws连接]鉴权中...
+2022-05-22 14:50:02,471 [INFO] on_message (ws_client.py:73): [ws连接]鉴权成功
+2022-05-22 14:50:02,472 [INFO] on_message (ws_client.py:78): [ws连接]程序启动成功！
+2022-05-22 14:50:04,513 [INFO] _message_handler (test.py:9): event <qqbot.model.ws_context.WsContext object at 0x000002EEF39B85C8>,receive message <@!10090751502455108828> 歇后语
+2022-05-22 14:50:28,574 [INFO] _message_handler (test.py:9): event <qqbot.model.ws_context.WsContext object at 0x000002EEF39AFB88>,receive message <@!10090751502455108828> 0
+2022-05-22 14:50:38,610 [INFO] _message_handler (test.py:9): event <qqbot.model.ws_context.WsContext object at 0x000002EEF39AFD08>,receive message <@!10090751502455108828> 答案
+2022-05-22 14:54:54,408 [INFO] start (ws_session_manager.py:50): [连接管理]程序启动中...
+2022-05-22 14:54:59,438 [INFO] new_connect (ws_session_manager.py:95): [连接管理]会话启动中...
+2022-05-22 14:55:00,036 [INFO] identify (ws_client.py:111): [ws连接]鉴权中...
+2022-05-22 14:55:00,139 [INFO] on_message (ws_client.py:73): [ws连接]鉴权成功
+2022-05-22 14:55:00,140 [INFO] on_message (ws_client.py:78): [ws连接]程序启动成功！
+2022-05-22 14:55:02,190 [INFO] _message_handler (test.py:9): event <qqbot.model.ws_context.WsContext object at 0x000002D16EE88D08>,receive message <@!10090751502455108828> 歇后语
+2022-05-22 14:55:12,176 [INFO] _message_handler (test.py:9): event <qqbot.model.ws_context.WsContext object at 0x000002D16EE7B8C8>,receive message <@!10090751502455108828> 小
+2022-05-22 14:55:22,258 [INFO] _message_handler (test.py:9): event <qqbot.model.ws_context.WsContext object at 0x000002D16A56BA88>,receive message <@!10090751502455108828> 答案
+2022-05-22 14:55:41,307 [INFO] _message_handler (test.py:9): event <qqbot.model.ws_context.WsContext object at 0x000002D16A56BA88>,receive message <@!10090751502455108828> 不玩了
+2022-05-22 14:57:14,184 [INFO] start (ws_session_manager.py:50): [连接管理]程序启动中...
+2022-05-22 14:57:19,205 [INFO] new_connect (ws_session_manager.py:95): [连接管理]会话启动中...
+2022-05-22 14:57:19,815 [INFO] identify (ws_client.py:111): [ws连接]鉴权中...
+2022-05-22 14:57:19,915 [INFO] on_message (ws_client.py:73): [ws连接]鉴权成功
+2022-05-22 14:57:19,916 [INFO] on_message (ws_client.py:78): [ws连接]程序启动成功！
+2022-05-22 14:57:29,030 [INFO] _message_handler (test.py:9): event <qqbot.model.ws_context.WsContext object at 0x000001D253738D88>,receive message <@!10090751502455108828> 你还
+2022-05-22 14:57:39,987 [INFO] _message_handler (test.py:9): event <qqbot.model.ws_context.WsContext object at 0x000001D253738608>,receive message <@!10090751502455108828> 歇后语
+2022-05-22 14:57:50,024 [INFO] _message_handler (test.py:9): event <qqbot.model.ws_context.WsContext object at 0x000001D25373ACC8>,receive message <@!10090751502455108828> 非驴非马
+2022-05-22 14:58:03,027 [INFO] _message_handler (test.py:9): event <qqbot.model.ws_context.WsContext object at 0x000001D25372FFC8>,receive message <@!10090751502455108828>非驴非马
+2022-05-22 14:58:53,203 [INFO] _message_handler (test.py:9): event <qqbot.model.ws_context.WsContext object at 0x000001D25373AE88>,receive message <@!10090751502455108828> 答案
+2022-05-22 15:00:11,646 [INFO] start (ws_session_manager.py:50): [连接管理]程序启动中...
+2022-05-22 15:00:16,671 [INFO] new_connect (ws_session_manager.py:95): [连接管理]会话启动中...
+2022-05-22 15:00:17,375 [INFO] identify (ws_client.py:111): [ws连接]鉴权中...
+2022-05-22 15:00:17,515 [INFO] on_message (ws_client.py:73): [ws连接]鉴权成功
+2022-05-22 15:00:17,516 [INFO] on_message (ws_client.py:78): [ws连接]程序启动成功！
+2022-05-22 15:00:20,654 [INFO] _message_handler (test.py:9): event <qqbot.model.ws_context.WsContext object at 0x0000022E7FC06E08>,receive message <@!10090751502455108828> 歇后语
+2022-05-22 15:00:44,716 [INFO] _message_handler (test.py:9): event <qqbot.model.ws_context.WsContext object at 0x0000022E7FC06F08>,receive message <@!10090751502455108828> 受了冷气受热气
+2022-05-22 15:01:20,762 [INFO] start (ws_session_manager.py:50): [连接管理]程序启动中...
+2022-05-22 15:01:25,791 [INFO] new_connect (ws_session_manager.py:95): [连接管理]会话启动中...
+2022-05-22 15:01:26,395 [INFO] identify (ws_client.py:111): [ws连接]鉴权中...
+2022-05-22 15:01:26,494 [INFO] on_message (ws_client.py:73): [ws连接]鉴权成功
+2022-05-22 15:01:26,494 [INFO] on_message (ws_client.py:78): [ws连接]程序启动成功！
+2022-05-22 15:01:30,595 [INFO] _message_handler (test.py:9): event <qqbot.model.ws_context.WsContext object at 0x000001C468C98408>,receive message <@!10090751502455108828> 歇后语
+2022-05-22 15:01:39,605 [INFO] _message_handler (test.py:9): event <qqbot.model.ws_context.WsContext object at 0x000001C468C9B488>,receive message <@!10090751502455108828> 去去去
+2022-05-22 15:03:42,182 [INFO] start (ws_session_manager.py:50): [连接管理]程序启动中...
+2022-05-22 15:03:47,207 [INFO] new_connect (ws_session_manager.py:95): [连接管理]会话启动中...
+2022-05-22 15:03:47,807 [INFO] identify (ws_client.py:111): [ws连接]鉴权中...
+2022-05-22 15:03:47,934 [INFO] on_message (ws_client.py:73): [ws连接]鉴权成功
+2022-05-22 15:03:47,935 [INFO] on_message (ws_client.py:78): [ws连接]程序启动成功！
+2022-05-22 15:03:52,007 [INFO] _message_handler (test.py:9): event <qqbot.model.ws_context.WsContext object at 0x0000021578EC6E48>,receive message <@!10090751502455108828> 歇后语
+2022-05-22 15:05:01,233 [INFO] start (ws_session_manager.py:50): [连接管理]程序启动中...
+2022-05-22 15:05:06,257 [INFO] new_connect (ws_session_manager.py:95): [连接管理]会话启动中...
+2022-05-22 15:05:06,860 [INFO] identify (ws_client.py:111): [ws连接]鉴权中...
+2022-05-22 15:05:06,977 [INFO] on_message (ws_client.py:73): [ws连接]鉴权成功
+2022-05-22 15:05:06,978 [INFO] on_message (ws_client.py:78): [ws连接]程序启动成功！
+2022-05-22 15:05:10,035 [INFO] _message_handler (test.py:9): event <qqbot.model.ws_context.WsContext object at 0x0000019875308E08>,receive message <@!10090751502455108828> 歇后语
+2022-05-22 15:05:22,037 [INFO] _message_handler (test.py:9): event <qqbot.model.ws_context.WsContext object at 0x000001987530AA88>,receive message <@!10090751502455108828> 一辈子也打不响
+2022-05-22 15:05:49,152 [INFO] _message_handler (test.py:9): event <qqbot.model.ws_context.WsContext object at 0x000001987530A908>,receive message <@!10090751502455108828>一辈子也打不响
+2022-05-22 15:07:02,576 [INFO] start (ws_session_manager.py:50): [连接管理]程序启动中...
+2022-05-22 15:07:07,602 [INFO] new_connect (ws_session_manager.py:95): [连接管理]会话启动中...
+2022-05-22 15:07:08,103 [INFO] identify (ws_client.py:111): [ws连接]鉴权中...
+2022-05-22 15:07:08,215 [INFO] on_message (ws_client.py:73): [ws连接]鉴权成功
+2022-05-22 15:07:08,215 [INFO] on_message (ws_client.py:78): [ws连接]程序启动成功！
+2022-05-22 15:07:11,285 [INFO] _message_handler (test.py:9): event <qqbot.model.ws_context.WsContext object at 0x000002002F708908>,receive message <@!10090751502455108828> 歇后语
+2022-05-22 15:07:33,291 [INFO] _message_handler (test.py:9): event <qqbot.model.ws_context.WsContext object at 0x000002002F70A7C8>,receive message <@!10090751502455108828> 留不住
+2022-05-22 15:08:07,395 [INFO] _message_handler (test.py:9): event <qqbot.model.ws_context.WsContext object at 0x000002002F70A788>,receive message <@!10090751502455108828> 答案
+2022-05-22 15:08:16,403 [INFO] _message_handler (test.py:9): event <qqbot.model.ws_context.WsContext object at 0x000002002F6FCAC8>,receive message <@!10090751502455108828> 不玩了
+2022-05-22 15:08:25,412 [INFO] _message_handler (test.py:9): event <qqbot.model.ws_context.WsContext object at 0x000002002F6FCAC8>,receive message <@!10090751502455108828> 歇后语
+2022-05-22 15:08:39,441 [INFO] _message_handler (test.py:9): event <qqbot.model.ws_context.WsContext object at 0x000002002F6FCAC8>,receive message <@!10090751502455108828> 大不了
+2022-05-22 15:09:22,350 [INFO] start (ws_session_manager.py:50): [连接管理]程序启动中...
+2022-05-22 15:09:27,368 [INFO] new_connect (ws_session_manager.py:95): [连接管理]会话启动中...
+2022-05-22 15:09:27,878 [INFO] identify (ws_client.py:111): [ws连接]鉴权中...
+2022-05-22 15:09:27,977 [INFO] on_message (ws_client.py:73): [ws连接]鉴权成功
+2022-05-22 15:09:27,978 [INFO] on_message (ws_client.py:78): [ws连接]程序启动成功！
+2022-05-22 15:09:32,015 [INFO] _message_handler (test.py:9): event <qqbot.model.ws_context.WsContext object at 0x00000130C06D8BC8>,receive message <@!10090751502455108828> 歇后语
+2022-05-22 15:09:41,087 [INFO] _message_handler (test.py:9): event <qqbot.model.ws_context.WsContext object at 0x00000130C06D8648>,receive message <@!10090751502455108828> 你算哪把手
+2022-05-22 15:09:55,114 [INFO] _message_handler (test.py:9): event <qqbot.model.ws_context.WsContext object at 0x00000130C06DA708>,receive message <@!10090751502455108828> 不玩了
+2022-05-22 15:10:11,196 [INFO] _message_handler (test.py:9): event <qqbot.model.ws_context.WsContext object at 0x00000130C06DA748>,receive message <@!10090751502455108828> 成语接龙
+2022-05-22 15:10:11,196 [INFO] jielong (test.py:40): event <qqbot.model.ws_context.WsContext object at 0x00000130C06DA748>,receive message <@!10090751502455108828> 成语接龙
+2022-05-22 15:10:11,197 [INFO] jielong (test.py:41): event <qqbot.model.ws_context.WsContext object at 0x00000130C06DA748>,receive message 2022-05-22T15:10:08+08:00
+2022-05-22 15:10:23,173 [INFO] _message_handler (test.py:9): event <qqbot.model.ws_context.WsContext object at 0x00000130C06DAA88>,receive message <@!10090751502455108828> 世世代代
+2022-05-22 15:10:23,174 [INFO] jielong (test.py:40): event <qqbot.model.ws_context.WsContext object at 0x00000130C06DAA88>,receive message <@!10090751502455108828> 世世代代
+2022-05-22 15:10:23,174 [INFO] jielong (test.py:41): event <qqbot.model.ws_context.WsContext object at 0x00000130C06DAA88>,receive message 2022-05-22T15:10:21+08:00
+2022-05-22 15:10:35,256 [INFO] _message_handler (test.py:9): event <qqbot.model.ws_context.WsContext object at 0x00000130C06D8248>,receive message <@!10090751502455108828> 十全十美
+2022-05-22 15:10:35,256 [INFO] jielong (test.py:40): event <qqbot.model.ws_context.WsContext object at 0x00000130C06D8248>,receive message <@!10090751502455108828> 十全十美
+2022-05-22 15:10:35,257 [INFO] jielong (test.py:41): event <qqbot.model.ws_context.WsContext object at 0x00000130C06D8248>,receive message 2022-05-22T15:10:33+08:00
+2022-05-22 15:11:19,292 [INFO] _message_handler (test.py:9): event <qqbot.model.ws_context.WsContext object at 0x00000130C06D8C88>,receive message <@!10090751502455108828> 世态炎凉
+2022-05-22 15:11:19,292 [INFO] jielong (test.py:40): event <qqbot.model.ws_context.WsContext object at 0x00000130C06D8C88>,receive message <@!10090751502455108828> 世态炎凉
+2022-05-22 15:11:19,293 [INFO] jielong (test.py:41): event <qqbot.model.ws_context.WsContext object at 0x00000130C06D8C88>,receive message 2022-05-22T15:11:17+08:00
+2022-05-22 15:11:29,221 [INFO] _message_handler (test.py:9): event <qqbot.model.ws_context.WsContext object at 0x00000130C06D8248>,receive message <@!10090751502455108828> 子子孙孙
+2022-05-22 15:11:29,222 [INFO] jielong (test.py:40): event <qqbot.model.ws_context.WsContext object at 0x00000130C06D8248>,receive message <@!10090751502455108828> 子子孙孙
+2022-05-22 15:11:29,222 [INFO] jielong (test.py:41): event <qqbot.model.ws_context.WsContext object at 0x00000130C06D8248>,receive message 2022-05-22T15:11:27+08:00
+2022-05-22 15:11:40,236 [INFO] _message_handler (test.py:9): event <qqbot.model.ws_context.WsContext object at 0x00000130C06D8C88>,receive message <@!10090751502455108828> 雪中送炭
+2022-05-22 15:11:40,237 [INFO] jielong (test.py:40): event <qqbot.model.ws_context.WsContext object at 0x00000130C06D8C88>,receive message <@!10090751502455108828> 雪中送炭
+2022-05-22 15:11:40,237 [INFO] jielong (test.py:41): event <qqbot.model.ws_context.WsContext object at 0x00000130C06D8C88>,receive message 2022-05-22T15:11:39+08:00
+2022-05-22 15:11:57,381 [INFO] _message_handler (test.py:9): event <qqbot.model.ws_context.WsContext object at 0x00000130C06D8248>,receive message <@!10090751502455108828> 刻舟求剑
+2022-05-22 15:11:57,382 [INFO] jielong (test.py:40): event <qqbot.model.ws_context.WsContext object at 0x00000130C06D8248>,receive message <@!10090751502455108828> 刻舟求剑
+2022-05-22 15:11:57,383 [INFO] jielong (test.py:41): event <qqbot.model.ws_context.WsContext object at 0x00000130C06D8248>,receive message 2022-05-22T15:11:55+08:00
+2022-05-22 15:12:06,391 [INFO] _message_handler (test.py:9): event <qqbot.model.ws_context.WsContext object at 0x00000130C06D8C88>,receive message <@!10090751502455108828> 来来往往
+2022-05-22 15:12:06,392 [INFO] jielong (test.py:40): event <qqbot.model.ws_context.WsContext object at 0x00000130C06D8C88>,receive message <@!10090751502455108828> 来来往往
+2022-05-22 15:12:06,393 [INFO] jielong (test.py:41): event <qqbot.model.ws_context.WsContext object at 0x00000130C06D8C88>,receive message 2022-05-22T15:12:04+08:00
+2022-05-22 15:12:19,396 [INFO] _message_handler (test.py:9): event <qqbot.model.ws_context.WsContext object at 0x00000130C06D8248>,receive message 来日方长<@!10090751502455108828> 
+2022-05-22 15:12:19,397 [INFO] jielong (test.py:40): event <qqbot.model.ws_context.WsContext object at 0x00000130C06D8248>,receive message 来日方长<@!10090751502455108828> 
+2022-05-22 15:12:19,398 [INFO] jielong (test.py:41): event <qqbot.model.ws_context.WsContext object at 0x00000130C06D8248>,receive message 2022-05-22T15:12:17+08:00
+2022-05-22 15:12:29,431 [INFO] _message_handler (test.py:9): event <qqbot.model.ws_context.WsContext object at 0x00000130C06D8C88>,receive message <@!10090751502455108828> 来日方长
+2022-05-22 15:12:29,431 [INFO] jielong (test.py:40): event <qqbot.model.ws_context.WsContext object at 0x00000130C06D8C88>,receive message <@!10090751502455108828> 来日方长
+2022-05-22 15:12:29,432 [INFO] jielong (test.py:41): event <qqbot.model.ws_context.WsContext object at 0x00000130C06D8C88>,receive message 2022-05-22T15:12:27+08:00
+2022-05-22 15:12:50,378 [INFO] _message_handler (test.py:9): event <qqbot.model.ws_context.WsContext object at 0x00000130C06D8248>,receive message <@!10090751502455108828> 阴晴不定
+2022-05-22 15:12:50,379 [INFO] jielong (test.py:40): event <qqbot.model.ws_context.WsContext object at 0x00000130C06D8248>,receive message <@!10090751502455108828> 阴晴不定
+2022-05-22 15:12:50,379 [INFO] jielong (test.py:41): event <qqbot.model.ws_context.WsContext object at 0x00000130C06D8248>,receive message 2022-05-22T15:12:48+08:00
+2022-05-22 15:13:02,505 [INFO] _message_handler (test.py:9): event <qqbot.model.ws_context.WsContext object at 0x00000130C06D8C88>,receive message <@!10090751502455108828> 分数
+2022-05-22 15:13:02,506 [INFO] jielong (test.py:40): event <qqbot.model.ws_context.WsContext object at 0x00000130C06D8C88>,receive message <@!10090751502455108828> 分数
+2022-05-22 15:13:02,506 [INFO] jielong (test.py:41): event <qqbot.model.ws_context.WsContext object at 0x00000130C06D8C88>,receive message 2022-05-22T15:13:00+08:00
+2022-05-22 15:13:14,489 [INFO] _message_handler (test.py:9): event <qqbot.model.ws_context.WsContext object at 0x00000130C06D8248>,receive message <@!10090751502455108828> 不玩了
+2022-05-22 15:13:14,489 [INFO] jielong (test.py:40): event <qqbot.model.ws_context.WsContext object at 0x00000130C06D8248>,receive message <@!10090751502455108828> 不玩了
+2022-05-22 15:13:14,490 [INFO] jielong (test.py:41): event <qqbot.model.ws_context.WsContext object at 0x00000130C06D8248>,receive message 2022-05-22T15:13:12+08:00
+2022-05-22 15:13:22,473 [INFO] _message_handler (test.py:9): event <qqbot.model.ws_context.WsContext object at 0x00000130C06D8C88>,receive message <@!10090751502455108828> 打卡
+2022-05-22 15:13:31,485 [INFO] _message_handler (test.py:9): event <qqbot.model.ws_context.WsContext object at 0x00000130C06D8248>,receive message <@!10090751502455108828> 打卡
